@@ -30,7 +30,7 @@ cout << "\nEl numero mayor es: "<<FindNumMax(n1,n2)<< endl;
     return 0;
 }
 
-//Definiciones de función
+//Definiciones de función LERLEROLEROLERO
 int FindNumMax(int x, int y){
     int NumMax; //Esta no se coloca en las variables del parentesis pues es el valor de retorno. O sea 
     if (x > y)  //que depende de x y y
